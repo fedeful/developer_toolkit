@@ -1,0 +1,1 @@
+docker build -f Dockerfile . -t mp_develop_311
